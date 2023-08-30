@@ -7,24 +7,53 @@
 
 ### Сохранившиеся архивы
 Чертежи
+![](image/чертеж1.jpg)
+![](image/чертеж2.jpg)
+
 Фотографии
+![](image/фотография.png)
+
+### Анализ местности
+![](image/местность1.jpg)
+![](image/местность2.jpg)
 
 ### Работа с чертежами
+![](image/испр_чертеж1.png)
+![](image/испр_чертеж2.png)
 
 ### Блокинг в Revit
+![](image/блокинг1.png)
+![](image/блокинг2.png)
+![](image/блокинг3.png)
 
 ### Детализация в Blender
+![](image/детализация1.png)
+![](image/детализация2.png)
+![](image/детализация3.png)
+![](image/детализация4.png)
+![](image/детализация5.png)
 
 ### VR-сцена
 Подбор моделей
+![](image/подбор_моделей.png)
 
 Сборка сцены
+![](image/сборка_сцены.png)
+![](image/сборка_сцены2.png)
 
 Моделиррвание ландшафта
+![](image/моделирование_ландшафта.png)
 
 Настройка освещения
+![](image/настройка_освещения.png)
 
 Настройка под VR
+![](image/настройка_под_vr.png)
 
 # Рендеры
-![](рендеры/HighresScreenshot00002.png)
+Финальные рендеры можно посмотреть в соответствующей папке
+
+Финальное видео: https://drive.google.com/file/d/1TqANnB4w_RYn-TD_PoW8oGEdxEvi1VeI/view?usp=sharing
+
+Видео из VR: https://drive.google.com/file/d/1unxCNk5QTFK4mOOaG0uWs3RtLc43rKUk/view?usp=sharing
+
