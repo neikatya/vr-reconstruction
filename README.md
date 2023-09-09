@@ -52,9 +52,9 @@
 ![](image/настройка_под_vr.png)
 
 # Рендеры
-Финальные рендеры можно посмотреть в соответствующей папке
+Финальные рендеры можно посмотреть в соответствующей папке [link](https://drive.google.com/drive/folders/1vpdTti7bUI3RJHZ0GDWJ0Vi07740c2t2?usp=drive_link)
 
-Финальное видео: https://drive.google.com/file/d/1TqANnB4w_RYn-TD_PoW8oGEdxEvi1VeI/view?usp=sharing
+Финальное видео: [link](https://drive.google.com/file/d/1TqANnB4w_RYn-TD_PoW8oGEdxEvi1VeI/view?usp=sharing)
 
-Видео из VR: https://drive.google.com/file/d/1unxCNk5QTFK4mOOaG0uWs3RtLc43rKUk/view?usp=sharing
+Видео из VR: [link](https://drive.google.com/file/d/1unxCNk5QTFK4mOOaG0uWs3RtLc43rKUk/view?usp=sharing)
 
